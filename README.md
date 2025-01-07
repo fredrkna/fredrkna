@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fredrkna
 - 👀 I’m interested in data science, physics, mathemathics and numerics.
-- 🌱 I’m currently learning pedagogy.
+- 🌱 I’m currently working as a Data Engineer.
 - 💞️ I’m looking to collaborate on any project shared with me.
 - 📫 How to reach me https://www.linkedin.com/in/fredrik-knapskog-520602221/
 
